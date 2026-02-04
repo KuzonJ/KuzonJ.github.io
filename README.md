@@ -4,8 +4,12 @@ This tool is aimed at young adults and new grads to help them curate their resum
 
 # Installation
 
-Running in the browser
+HTML, CSS, JAVASCRIPT
 
 # Usage
 
-Users
+Run on the Web Browser
+
+# Authors
+
+Thando, Michael and Emmanuel
